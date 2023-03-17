@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JAY1820-JAY1820-data-structure-and-algorithm-using--c-plus-language-
 ### Hi there 👋, MY NAME IS JAYMIN VALAKI
 #### I AM A TECH STUDENT
@@ -11,3 +12,18 @@ Skills requried: C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JAY1820/JAVA-PROGRAMMING)  
 
+=======
+# JAY1820-JAY1820-data-structure-and-algorithm-using--c-plus-language-
+### Hi there 👋, MY NAME IS JAYMIN VALAKI
+#### I AM A TECH STUDENT
+I made this for a student who want to learn data structure and algorithm in c++
+and want to practice program related to DSA
+
+Skills requried: C++ 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JAY1820/JAVA-PROGRAMMING)  
+
+>>>>>>> 180a6a214e65e1aa668c7a3c7e492c6c833a71cd
